@@ -1,6 +1,5 @@
 #Exercicios 2 para nota (2SI)NOTURNO
-#0040972213030 - Jhony Kevin Mendonça
-#0040972213018 - Daniel dos Santos Silva Junior
+
 #SALA 3
 def cadastronum ():
     lista = []
